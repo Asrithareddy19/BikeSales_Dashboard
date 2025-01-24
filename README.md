@@ -15,7 +15,7 @@ This project demonstrates my ability to clean and analyze a small dataset and cr
 - **Microsoft Excel**: For data cleaning, analysis, and dashboard creation.
 
 ## How to Use
-1. Download the `Dashboard.xlsx` file.
+1. Download the `Excel Project Dataset1.xlsx` file.
 2. Open it in Microsoft Excel.
 3. Explore the interactive charts and metrics displayed in the dashboard.
 
